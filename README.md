@@ -1,4 +1,4 @@
-# Nerfies
+# GAN-Avatar
 
 This is the repository that contains source code for the [GAN-Avatar website](https://ganavatar.github.io).
 
